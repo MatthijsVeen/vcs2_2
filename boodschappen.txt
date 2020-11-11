@@ -1,5 +1,6 @@
 Pizza:
 - Pizzadeeg
 - Tomatensaus
+- Parmazaanse kaas
 - Mozarella
 - Basilicum
